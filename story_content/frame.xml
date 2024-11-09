@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="pxabnsnfns00001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
+<bwFrame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" default_layout="pxabnsnfns00001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x2DA2BF">
   <layouts>
     <layout name="npnxnanbsnfns00001100101" font="Lato" controllayout="npnxnanbsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
     <layout name="pxabnsnfns00001100101" font="Lato" controllayout="pxabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Professional Etiquette and Workplace Culture" />
+              <option name="title_text" value="Orientation File Sample For EC English" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -70,6 +70,8 @@
           <option name="search" value="false" />
           <option name="closed_captions" value="true" />
           <option name="settings" value="true" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1166,7 +1168,7 @@
           <color name="brandhighlight">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x4FBDF4" alpha="100" stop="0" />
+                <color rgb="0x2DA2BF" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1310,7 +1312,7 @@
           <color name="toggle_track_on">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x4FBDF4" alpha="100" stop="0" />
+                <color rgb="0x2DA2BF" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1450,7 +1452,6 @@
       <string id="close">Close</string>
       <string id="closed_captions">Captions</string>
       <string id="closedcaptions_shortcut">Toggle captions</string>
-      <string id="continue">Continue</string>
       <string id="continueresponsive">Continue</string>
       <string id="ctrl_key">Ctrl</string>
       <string id="desktop_start">Start Course</string>
@@ -1539,6 +1540,7 @@
       <string id="video_transcript_select_track">Select track</string>
       <string id="video_transcript_title">Transcripts</string>
       <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="continue">Continue</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1553,17 +1555,27 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6Hluf0nwUOH" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6XLZxdezabC" displaytext="UCLA Student Orientation (Late Arrivals and GLs)" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6Hluf0nwUOH.5oMLVU0iavb" displaytext="Professional Etiquette and Workplace Culture" expand="false" type="slide" />
-            <slidelink slideid="_player.6Hluf0nwUOH.6DuVG1NJjYb" displaytext="Course Objectives" expand="false" type="slide" />
-            <slidelink slideid="_player.6Hluf0nwUOH.5pPYizwxMEr" displaytext="Punctuality" expand="false" type="slide" />
-            <slidelink slideid="_player.6Hluf0nwUOH.65iKWP9NUa3" displaytext="Punctuality" expand="false" type="slide" />
-            <slidelink slideid="_player.6Hluf0nwUOH.6mU0WAmkc9k" displaytext="Attire" expand="false" type="slide" />
-            <slidelink slideid="_player.6Hluf0nwUOH.5tyIoWWsOy1" displaytext="Attire" expand="false" type="slide" />
-            <slidelink slideid="_player.6Hluf0nwUOH.6j4mXGOFckh" displaytext="Attire" expand="false" type="slide" />
-            <slidelink slideid="_player.6Hluf0nwUOH.6aQRUPGMKWl" displaytext="Attire" expand="false" type="slide" />
-            <slidelink slideid="_player.6Hluf0nwUOH.6ERO20hpTjq" displaytext="Body Language" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.6FarkzuqdiH" displaytext="Welcome to Embassy Summer UCLA" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.6hNMeE4Xixy" displaytext="Meet The Staff" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.5cB2v7i8llA" displaytext="Activity Manager " expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.6cdCRMxUbjg" displaytext="Academic Manager " expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.6qyFDqFhQTe" displaytext="Center Manager " expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.6SJ66bootfT" displaytext="School Rules" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.6Bltsbq0aQh" displaytext="School Rules " expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.6AA3GdLiBjR" displaytext="School Rules" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.62FWHv1vbta" displaytext="School Rules" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.6lcvf82q9vx" displaytext="School Rules" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.5v5uCMKZdzi" displaytext="Intro to MC Questions" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.5gXGskszdZ1" displaytext="Question #1" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.5dIFijACVXh" displaytext="Question #2" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.6hTHKT1PoHG" displaytext="Question #3" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.5VA33lUl85B" displaytext="Question #4" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.6SVRtSEyur9" displaytext="Question #5" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.5q2wetQDISI" displaytext="Question #6" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.6DCpnKZu6Z9" displaytext="Question #7" expand="false" type="slide" />
+            <slidelink slideid="_player.6XLZxdezabC.5pZDpo0rxZK" displaytext="Thank you!" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
